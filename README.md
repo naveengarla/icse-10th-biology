@@ -1,18 +1,23 @@
-# ICSE Class 10 Biology: Master Self-Study Tutorials
+# ICSE Class 10 Biology Study Hub
 
-Welcome to your personalized, self-reading tutorial hub for **ICSE Class 10 Biology**! 
-These notes are expressly designed to replace confusing textbook jargon with clear, intuitive pedagogy, real-world analogies, and perfect logical flow.
+Welcome to the ultimate learning repository for ICSE 10th Biology. This repository is specifically designed to guarantee 100/100 by breaking down the notoriously difficult textbook chapters into highly engaging, pedagogy-focused tutorials.
 
-## 📖 Currently Available Chapters
-
-### Chapter 2: Structure of Chromosomes, Cell Cycle, and Cell Division
-*If slides didn't do the trick, these notes are for you. We break down the complex dances of DNA and cells into plain English.*
-
-1. [Part 1: The Blueprint of Life (DNA & Chromosomes)](Chapter_02_Tutorial/01_Structure_and_DNA.md) - How does 2 meters of DNA fit into a microscopic cell?
-2. [Part 2: The Cell's Busy Life (Anatomy & Interphase)](Chapter_02_Tutorial/02_Cell_Cycle_and_Interphase.md) - Busting the myth of the "resting phase".
-3. [Part 3: Mitosis (The Clone Factory)](Chapter_02_Tutorial/03_Mitosis_Dance_of_Chromosomes.md) - The perfectly choreographed dance of cell division.
-4. [Part 4: Meiosis (Why You Are Unique)](Chapter_02_Tutorial/04_Meiosis_and_Crossing_Over.md) - Crossing over and the magic of genetic variation.
+**What makes this different?**
+- Aggressive mnemonics explicitly designed for ICSE tests.
+- Perfect 1:1 mapping with the exact sections of your textbook (meaning zero skipped content).
+- Active Recall quizzes built right into every section.
 
 ---
 
-*Designed with 🧠 by Antigravity*
+## 📖 Chapter 2: Structure of Chromosomes, Cell Cycle, and Cell Division
+
+The textbook content for this chapter has been seamlessly mapped strictly to its actual sections. Read them in exact numerical order!
+
+* **[Section 2.1: What Are Chromosomes?](./Chapter_02_Tutorial/2.1_What_Are_Chromosomes.md)**
+* **[Section 2.2: Discovery of Chromosomes](./Chapter_02_Tutorial/2.2_Discovery_of_Chromosomes.md)**
+* **[Section 2.3: Structure of Chromosomes (Highly Tested!)](./Chapter_02_Tutorial/2.3_Structure_of_Chromosomes.md)**
+* **[Section 2.4: What Are Genes?](./Chapter_02_Tutorial/2.4_What_Are_Genes.md)**
+* **[Section 2.5: New Cells Need to Be Produced](./Chapter_02_Tutorial/2.5_New_Cells_Need_To_Be_Produced.md)**
+* **[Section 2.6: Types of Cell Division & Mitosis](./Chapter_02_Tutorial/2.6_Types_of_Cell_Division_and_Mitosis.md)**
+* **[Section 2.7: Cell Cycle](./Chapter_02_Tutorial/2.7_Cell_Cycle.md)**
+* **[Section 2.8: Meiosis](./Chapter_02_Tutorial/2.8_Meiosis.md)**

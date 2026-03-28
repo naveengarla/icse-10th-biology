@@ -6,107 +6,61 @@
 
 ## ⚡ 1-Line Concept Summaries
 
-| Concept | 1-Line Summary |
-|:---|:---|
-| **Chromatin** | Loose, readable DNA+protein threads — the interphase form |
-| **Chromosome** | Same material, tightly coiled — the division-ready form |
-| **Chromatid** | One arm of an X-shaped chromosome; sisters are identical twins |
-| **Centromere** | The pinch-point holding sister chromatids together; spindle attaches here |
-| **Nucleosome** | 8 histone proteins + DNA wound twice around them |
-| **Gene** | A specific stretch of DNA that codes for one specific protein |
-| **Diploid (2n)** | Full paired chromosomes (human: 2n = 46) |
-| **Haploid (n)** | Half — one from each pair (human gametes: n = 23) |
-| **Chiasma** | The X-shaped point where homologous chromosomes swap DNA during Meiosis I |
+| Concept | 1-Line Summary | ⚠️ Exam Ticker |
+|:---|:---|:---|
+| **Chromatin** | Loose, readable DNA+protein threads | Found in Interphase (90% of life) |
+| **Chromosome** | Tightly packed "moving rods" | Visible only during Division |
+| **Centromere** | The "Binder Clip" holding chromatids | Spindle fibres attach here |
+| **Nucleosome** | 8 Histone "beads" + DNA wrap | Functional unit of packing |
+| **Gene** | A specific DNA sentence/instruction | Codes for one Protein = one Trait |
+| **Diploid (2n)** | Full set of paired chromosomes | Most body cells (46) |
+| **Haploid (n)** | Half set (shuffled) | Only Gametes/Sex cells (23) |
+| **Chiasma** | The point where DNA is swapped | Occurs only in Meiosis I |
 
 ---
 
-## 🧬 4 Levels of DNA Packing (Zoom-Out)
+## 🎬 Mitosis Movie — Diagram Alerts
 
-```
-Naked DNA Thread → Nucleosome bead → Chromatin Fibre → Chromosome
-(2m long)           (DNA + 8 histones)   (coiled)           (supercoiled, visible)
-```
+[⚠️ **CRITICAL:** ICSE will show you a picture and ask 'Identify the stage'. Use these cues!]
+
+| Stage | Main Action | 📸 Diagram Alert |
+|:---|:---|:---|
+| **P (Prophase)** | Packaging DNA | Nucleus wall is 'breaking'; threads getting thick |
+| **M (Metaphase)** | **Middle** Lineup | All chromosomes in a perfect line at the Equator |
+| **A (Anaphase)** | **Apart** / Tug-of-War | V-shaped chromatids moving to opposite poles |
+| **T (Telophase)** | **Two** Nuclei | Two fuzzy groups at poles; cell is pinching |
 
 ---
 
-## 🎬 Mitosis Stages — One-Line Each (PMAT)
+## ⚖️ Mitosis vs Meiosis (The Master Contrast)
 
-| Stage | ONE Main Event |
-|:---|:---|
-| **P**rophase | Chromosomes appear; nuclear membrane dissolves; spindle forms |
-| **M**etaphase | All 46 chromosomes line up at the equator; best for counting |
-| **A**naphase | Centromere snaps; sister chromatids pulled to opposite poles |
-| **T**elophase | 2 new nuclei form; chromosomes uncoil back to chromatin |
-| **Cytokinesis** | Animal: furrow pinches. Plant: cell plate builds from centre out |
+| Feature | 🏭 Mitosis | 🎲 Meiosis |
+|:---|:---|:---|
+| **Purpose** | Growth, Repair, Replacement | Making Gametes (Sperm/Egg) |
+| **Daughters** | **2** identical clones | **4** unique remix cells |
+| **Count** | **2n → 2n** (Stay Same) | **2n → n** (Halved) |
+| **Shuffle?** | No | Yes (Crossing over) |
 
 ---
 
 ## 🔑 DNA Base Pairing Rules
-
-| Pairing | Bond Type | Memory |
-|:---|:---|:---|
-| **A** ↔ **T** | 2 hydrogen bonds | **A**pples fall from **T**rees |
-| **G** ↔ **C** | 3 hydrogen bonds | **C**ars park in a **G**arage |
-| Purine (A,G) = LARGE (2 rings) | Pyrimidine (T,C) = SMALL (1 ring) | Must always pair Big + Small |
+- **A ↔ T** (2 Hydrogen Bonds) — **A**pples on **T**rees
+- **G ↔ C** (3 Hydrogen Bonds) — **C**ars in **G**arages
 
 ---
 
-## ⚖️ Mitosis vs Meiosis — The Table
-
-| Feature | Mitosis | Meiosis |
-|:---|:---|:---|
-| Where | Body/somatic cells | Reproductive cells (testis, ovary) |
-| Purpose | Growth, repair, replacement | Gamete production |
-| Daughter cells | **2** | **4** |
-| Chromosome count | **2n** (diploid, same as parent) | **n** (haploid, halved) |
-| Divisions | **1** | **2** |
-| Daughters identical? | Yes — exact clones | No — genetically varied |
+## 🔄 Cell Cycle
+- **G1:** Growth & Protein synthesis.
+- **S:** **DNA DUPLICATION** (The most important part!).
+- **G2:** Final prep for division.
+- **Cancer:** Broken traffic light (checkpoint failure).
 
 ---
 
-## 🔄 Cell Cycle Phases
+## 🎤 The 30-Second Final Test (Say this out loud)
 
-| Phase | What Happens |
-|:---|:---|
-| **G₁** | Cell grows; proteins & RNA made; mitochondria divide |
-| **S** | DNA duplicated (chromosomes photocopied) |
-| **G₂** | Spindle proteins made; final prep |
-| **M (Mitosis)** | Division — PMAT + Cytokinesis |
-| **G₀ (Resting)** | Cell exits cycle permanently (e.g. neurons) |
-
-> **Cancer = G₁ checkpoint failure → uncontrolled division**
+> *"Life begins as 1 cell. It packs 2 metres of DNA by coiling it around 8-histone beads (nucleosomes) to fit inside the nucleus. To grow, the cell doubles its DNA (S-Phase) and sorts it perfectly (Mitosis). For the next generation, it halves the count (Meiosis) and shuffles the genes (Crossing Over) so no two children are the same. That is the logic of life."*
 
 ---
 
-## 📐 The Maths of Reproduction
-
-```
-Mitosis gametes (wrong):  46 + 46 = 92 → next gen: 184 → COLLAPSE ❌
-Meiosis gametes (right):  23 + 23 = 46 → stable every generation ✅
-```
-
----
-
-## 🏆 Most Likely ICSE Questions
-
-| Q | Key Answer |
-|:---|:---|
-| Chromatin vs Chromosome | Same material; loose vs condensed |
-| Why nuclear membrane dissolves in Prophase | Spindle fibres (cytoplasm) need access to chromosomes |
-| Where is cytokinesis different in plant/animal? | Animal: cleavage furrow. Plant: cell plate |
-| Why is meiosis called reduction division? | Chromosome count halved from 2n to n |
-| What is significance of crossing over? | Creates genetic variation — new gene combinations |
-| Name 4 reasons cells divide | Growth, Replacement, Repair, Reproduction |
-| 3 differences: Mitosis vs Meiosis | See table above (pick any 3 rows) |
-
----
-
-## 🎤 Feynman Final Test (Say This Out Loud)
-
-> *"DNA is a two-metre-long molecule folded inside a nucleus a hundred times smaller than a grain of sand. It folds by wrapping around histone proteins to make nucleosomes, which coil into chromatin, which supercoils into chromosomes. When a cell divides, the chromosomes line up, their twins are separated, and each daughter gets a perfect copy. Sexual cells use a special division that halves the count and shuffles the genes — so every child is different."*
-
-If you can say that out loud, without looking, you understand the entire chapter.
-
----
-
-*← Go back to [Chapter Introduction](00_Chapter_Introduction.md) | Forward to Chapter 3 →*
+*← [Chapter Introduction](00_Chapter_Introduction.md) | [Back to Main Repository](https://github.com/naveengarla/icse-10th-biology)*

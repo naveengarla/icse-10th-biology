@@ -1,38 +1,39 @@
-## 📖 Chapter 2: Structure of Chromosomes, Cell Cycle and Cell Division
+# ICSE 10th Biology — Feynman-Style Masterclass 🧬
 
-> **Start with the Chapter Introduction before reading any section!**
-
-| Section | Title |
-|:---|:---|
-| [📍 Chapter Introduction](Chapter_02_Tutorial/00_Chapter_Introduction.md) | **Start Here** — The Story, The Hierarchy, Exam Strategy & Master Mnemonics |
-| [2.1](Chapter_02_Tutorial/2.1_What_Are_Chromosomes.md) | What Are Chromosomes? |
-| [2.2](Chapter_02_Tutorial/2.2_Discovery_of_Chromosomes.md) | Discovery of Chromosomes |
-| [2.3](Chapter_02_Tutorial/2.3_Structure_of_Chromosomes.md) | Structure of Chromosomes & DNA |
-| [2.4](Chapter_02_Tutorial/2.4_What_Are_Genes.md) | What Are Genes? |
-| [2.5](Chapter_02_Tutorial/2.5_New_Cells_Need_To_Be_Produced.md) | Why Do Cells Need to Divide? |
-| [2.6](Chapter_02_Tutorial/2.6_Types_of_Cell_Division_and_Mitosis.md) | Mitosis — The Cell Division Movie |
-| [2.7](Chapter_02_Tutorial/2.7_Cell_Cycle.md) | The Cell Cycle |
-| [2.8](Chapter_02_Tutorial/2.8_Meiosis.md) | Meiosis — The Reduction Division |
- Study Hub
-
-Welcome to the ultimate learning repository for ICSE 10th Biology. This repository is specifically designed to guarantee 100/100 by breaking down the notoriously difficult textbook chapters into highly engaging, pedagogy-focused tutorials.
-
-**What makes this different?**
-- Aggressive mnemonics explicitly designed for ICSE tests.
-- Perfect 1:1 mapping with the exact sections of your textbook (meaning zero skipped content).
-- Active Recall quizzes built right into every section.
+Welcome to the ultimate learning repository for ICSE Class 10 Biology. This project transforms standard textbook content into a pedagogically superior, intuition-heavy masterclass designed for 100% exam readiness and deep conceptual mastery.
 
 ---
 
-## 📖 Chapter 2: Structure of Chromosomes, Cell Cycle, and Cell Division
+## 🔥 Why This Repository?
 
-The textbook content for this chapter has been seamlessly mapped strictly to its actual sections. Read them in exact numerical order!
+Most textbooks focus on **coverage**, we focus on **learning flow**. This repo uses a **7-Layer Pedagogy** to ensure you don't just "read", but "understand":
 
-* **[Section 2.1: What Are Chromosomes?](./Chapter_02_Tutorial/2.1_What_Are_Chromosomes.md)**
-* **[Section 2.2: Discovery of Chromosomes](./Chapter_02_Tutorial/2.2_Discovery_of_Chromosomes.md)**
-* **[Section 2.3: Structure of Chromosomes (Highly Tested!)](./Chapter_02_Tutorial/2.3_Structure_of_Chromosomes.md)**
-* **[Section 2.4: What Are Genes?](./Chapter_02_Tutorial/2.4_What_Are_Genes.md)**
-* **[Section 2.5: New Cells Need to Be Produced](./Chapter_02_Tutorial/2.5_New_Cells_Need_To_Be_Produced.md)**
-* **[Section 2.6: Types of Cell Division & Mitosis](./Chapter_02_Tutorial/2.6_Types_of_Cell_Division_and_Mitosis.md)**
-* **[Section 2.7: Cell Cycle](./Chapter_02_Tutorial/2.7_Cell_Cycle.md)**
-* **[Section 2.8: Meiosis](./Chapter_02_Tutorial/2.8_Meiosis.md)**
+1.  **Life & Intuition Layer:** Every concept starts with a "Why" (e.g., *Moving Day* for DNA packing).
+2.  **Scale Hierarchy:** We always anchor you in the "Big Picture" (Cell ⮕ Nucleus ⮕ DNA).
+3.  **Feynman Stories:** Complex processes are explained like a story to a friend.
+4.  **Contrast Tables:** Side-by-side comparisons (Mitosis vs. Meiosis) to kill confusion.
+5.  **Exam Tickers:** `[⚠️ EXAM TICKER]` tags for high-yield board question patterns.
+6.  **Visual Movies:** Mermaid diagrams that treat biological processes as animated sequences.
+7.  **Active Recall:** "Stop & Think" and "3-Line Compression" blocks in every section.
+
+---
+
+## 📚 Chapter Index
+
+| Chapter | Title | Status |
+|:---|:---|:---|
+| **01** | Basic Biology | Coming Soon ⏳ |
+| **02** | [Structure of Chromosomes, Cell Cycle & Division](./Chapter_02_Tutorial/README.md) | **COMPLETE** ✅ |
+| **03** | Genetics | Coming Soon ⏳ |
+
+---
+
+## 🛠️ How to Use This Repo
+
+1.  **Follow the Order:** Start with the **Chapter Introduction** for any chapter.
+2.  **Interact:** Don't just read the "Stop & Think" boxes—actually answer them in your head.
+3.  **The Summary Card:** Use the `09_Chapter_Summary.md` in each chapter for the "Night-Before" revision.
+4.  **NotebookLM:** Use the provided prompts in `slide_deck_prompts.md` to generate your own interactive audio/slide summaries.
+
+---
+*Created with ❤️ for ICSE Students.*

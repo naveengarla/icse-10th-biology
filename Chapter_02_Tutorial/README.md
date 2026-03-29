@@ -34,13 +34,15 @@ graph TD
 | [🏆 2.09_Summary](./2.09_Chapter_Summary.md) | **Revision Card** | Night-Before-Exam condensed facts. |
 | [🧠 2.10_Practice_Questions](./2.10_Practice_Questions_Deep_Conceptual.md) | **57 Deep Practice Questions** | Organised by chapter section (2.1–2.8 + cross-chapter). |
 | [✅ 2.11_Answers](./2.11_Practice_Questions_Answers.md) | **Answers to All 57 Questions** | Click-to-reveal answers written intuitively with real-world hooks. |
+| [🔥 2.12_Stress_Test](./2.12_Stress_Test_Questions.md) | **20 Stress Test Questions** | Engineered to break shallow understanding. 2 per day, go deep. |
 
 ---
 
 ## 🧠 Practice Questions
 Test your deep understanding with **52 conceptual questions** spanning core clarity, mechanisms, what-if scenarios, error detection, and multi-step reasoning.
 → [Open Practice Questions](./2.10_Practice_Questions_Deep_Conceptual.md) — 57 questions organised by section (2.1–2.8)  
-→ [Open Answers](./2.11_Practice_Questions_Answers.md) — click-to-reveal for all 57
+→ [Open Answers](./2.11_Practice_Questions_Answers.md) — click-to-reveal for all 57  
+→ [Open Stress Test](./2.12_Stress_Test_Questions.md) — 20 questions engineered to break shallow understanding
 
 ---
 

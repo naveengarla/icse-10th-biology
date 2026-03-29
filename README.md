@@ -23,7 +23,7 @@ Most textbooks focus on **coverage**, we focus on **learning flow**. This repo u
 | Chapter | Title | Status |
 |:---|:---|:---|
 | **01** | Basic Biology | Coming Soon ⏳ |
-| **02** | [Structure of Chromosomes, Cell Cycle & Division](./Chapter_02_Tutorial/README.md) | **COMPLETE** ✅ |
+| **02** | [Structure of Chromosomes, Cell Cycle & Division](./Chapter_02_Tutorial/README.md) | **COMPLETE + Practice Questions** ✅ |
 | **03** | Genetics | Coming Soon ⏳ |
 
 ---

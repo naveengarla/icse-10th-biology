@@ -32,6 +32,13 @@ graph TD
 | [Section 2.7](./2.7_Cell_Cycle.md) | Cell Cycle | The G1, S, and G2 prep laps + Cancer logic. |
 | [Section 2.8](./2.8_Meiosis.md) | Meiosis | The "Deck of Cards" shuffle for variation. |
 | [🏆 09_Summary](./09_Chapter_Summary.md) | **Revision Card** | Night-Before-Exam condensed facts. |
+| [🧠 10_Practice_Questions](./10_Practice_Questions_Deep_Conceptual.md) | **52 Deep Practice Questions** | IIT-level conceptual Q&A across 10 sections. |
+
+---
+
+## 🧠 Practice Questions
+Test your deep understanding with **52 conceptual questions** spanning core clarity, mechanisms, what-if scenarios, error detection, and multi-step reasoning.
+→ [Open Practice Questions](./10_Practice_Questions_Deep_Conceptual.md)
 
 ---
 
